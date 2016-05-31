@@ -1,0 +1,20 @@
+c:\users\gvd\documents\visual studio 2012\Projects\AppHotel\AppHotel\bin\Debug\AppHotel.exe.config
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\bin\Debug\AppHotel.exe
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\bin\Debug\AppHotel.pdb
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.csprojResolveAssemblyReference.cache
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.FormPrincipal.resources
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.Properties.Resources.resources
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.csproj.GenerateResource.Cache
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.exe
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.pdb
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.FormDadesClient.resources
+C:\Users\gVd\documents\visual studio 2012\Projects\AppHotel\AppHotel\obj\Debug\AppHotel.FormDadesHabitacio.resources
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\bin\Debug\AppHotel.exe.config
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.exe
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.pdb
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.csprojResolveAssemblyReference.cache
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.FormDadesClient.resources
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.FormDadesHabitacio.resources
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.FormPrincipal.resources
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.Properties.Resources.resources
+D:\PEN\DAM 2014-2015\M7 - Desenvolupament d'interficies (Jordi)\UF 2 preparació i distribució d’aplicacions\Aplicacio Hotel\AppHotel\AppHotel\obj\Debug\AppHotel.csproj.GenerateResource.Cache
